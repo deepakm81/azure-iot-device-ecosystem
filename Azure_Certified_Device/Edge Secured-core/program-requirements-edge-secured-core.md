@@ -66,7 +66,7 @@ Edge Secured-core is an incremental certification in the Azure Certified Device 
 |Name|SecuredCore.Update|
 |:---|:---|
 |Status|Required|
-|Description|The purpose of the test is to validate the device can receive and update its firmware and software.|
+|Description|The purpose of the test is to validate the device can receive and update its boot firmware and Operating system software.|
 |Target Availability|2021|
 |Applies To|Any device|
 |OS|Agnostic|
